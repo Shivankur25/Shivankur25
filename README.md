@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shivankur25&icon=4&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shivankur25&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/thakurCoder) 
