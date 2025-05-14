@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Designer projects.<br><br>👯 I’m looking to collaborate on open source.<br><br>🌱 I’m currently learning DSA With Java<br><br>💬 Ask me about #Tech#Life.<br><br>⚡ Fun fact || Cloud Computing is not done on clouds🤣.
+A passionate developer of dynamic web applications with expertise in ReactJS, Bootstrap,
+Python, Node.Js, GCP, and Azure. Driven by a strong desire to innovate and solve
+problems through technology, I excel in collaborative environments. With a solid
+foundation in web development, I thrive in teamwork and effective communication.
+Continuously enhancing my skills and staying up-to-date with industry trends, I am 
+dedicated to delivering high-quality results.
 
 
 ## 🌐 Socials:
@@ -20,9 +25,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shivankur25&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/thakurCoder) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
